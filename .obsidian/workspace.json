@@ -182,25 +182,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb5f96eaea7e6d1d",
+  "active": "b43a6ff727b94c33",
   "lastOpenFiles": [
+    "200 Courses/code/001_p5/src/003_circle_moving.js",
+    "200 Courses/code/001_p5/src/003_circle_moving.jsd",
+    "200 Courses/code/001_p5/src/003_circle_moving",
+    "200 Courses/code/001_p5/src/002_video_player.js",
+    "200 Courses/code/001_p5/thing.js",
+    "200 Courses/code/001_p5/src/001_basic.js",
+    "200 Courses/code/001_p5/src",
     ",",
     "200 Courses/code/001_p5/jsconfig.json",
     "200 Courses/code/001_p5/libraries/p5.sound.min.js",
     "200 Courses/code/001_p5/sketch.js",
-    "200 Courses/code/001_p5/style.css",
-    "200 Courses/code/001_p5/index.html",
-    "200 Courses/code/001_p5/libraries/p5.min.js",
-    "200 Courses/code/001_p5/libraries",
-    "200 Courses/code/001_p5",
-    "200 Courses/code",
     "200 Courses/001 Introduction Computer Science/Introduction Computer Science.md",
     "200 Courses/001 Introduction Computer Science/1. Introduction To Computer Programming.md",
     "200 Courses/Courses.md",
     "200 Courses/1. Index -- Introduction Computer Science.md",
     "README.md",
     "100 Notes/Keywords.md",
-    "2025-08-05.md",
-    "200 Courses/001 Introduction Computer Science"
+    "2025-08-05.md"
   ]
 }

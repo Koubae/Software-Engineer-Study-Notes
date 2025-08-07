@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Notes/Keywords.md",
+                "file": "200 Courses/001 Introduction Computer Science/1. Introduction To Computer Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keywords"
+              "title": "1. Introduction To Computer Programming"
             }
           }
         ]
@@ -170,17 +170,20 @@
   },
   "active": "921cd5a8c080c0ca",
   "lastOpenFiles": [
-    "200 Courses/code/sleuth/303-3-66590465-6978930/sketch.js",
-    "200 Courses/code/sleuth/303-3-66590465-6978930/p5.js",
-    "200 Courses/code/sleuth/303-3-66590465-6978930/index.html",
-    "200 Courses/code/sleuth/303-3-66590465-6978930",
-    "200 Courses/code/sleuth/303-2-36810021-6978930/sketch.js",
-    "200 Courses/code/sleuth/303-2-36810021-6978930/p5.js",
-    "200 Courses/code/sleuth/303-2-36810021-6978930/index.html",
-    "200 Courses/code/sleuth/303-2-36810021-6978930",
-    "200 Courses/code/sleuth/303-1-31185925-6978930/sketch.js",
-    "200 Courses/code/sleuth/303-1-31185925-6978930/p5.js",
-    "200 Courses/code/sleuth/303-1-31185925-6978930/index.html",
+    "200 Courses/code/001_p5/src/playground.js",
+    "200 Courses/code/001_p5/src/006_assignment copy.js",
+    "200 Courses/code/sunrise/sketch.js",
+    "200 Courses/code/sunrise/p5.min.js",
+    "200 Courses/code/sunrise/index.html",
+    "200 Courses/code/sunrise",
+    "200 Courses/code/debugChallengeT2/sketch.js",
+    "200 Courses/code/debugChallengeT2/p5.min.js",
+    "200 Courses/code/debugChallengeT2/index.html",
+    "200 Courses/code/debugChallengeT2",
+    "200 Courses/code/Kandinsky/sketch.js",
+    "200 Courses/001 Introduction Computer Science/Introduction Computer Science.md",
+    "200 Courses/001 Introduction Computer Science/1. Introduction To Computer Programming.md",
+    "100 Notes/Keywords.md",
     "200 Courses/code/sleuth/302-3-40662007-6978930/spotlight.png",
     "200 Courses/code/sleuth/302-3-40662007-6978930/scene.png",
     "200 Courses/code/sleuth/302-2-75394770-6978930/spotlight.png",
@@ -191,9 +194,6 @@
     "200 Courses/code/sleuth/302-0-33126820-6978930/scene.png",
     "200 Courses/code/sleuth/301-3-49273301-6978930/photoBoard.png",
     "200 Courses/code/sleuth/301-3-49273301-6978930/krayBrothers2.png",
-    "200 Courses/001 Introduction Computer Science/1. Introduction To Computer Programming.md",
-    "100 Notes/Keywords.md",
-    "200 Courses/001 Introduction Computer Science/Introduction Computer Science.md",
     "200 Courses/Courses.md",
     "200 Courses/1. Index -- Introduction Computer Science.md",
     "README.md",

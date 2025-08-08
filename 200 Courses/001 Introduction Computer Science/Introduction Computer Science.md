@@ -11,6 +11,7 @@ date: 2025-08-05
 ### Courses
 
 * [[1. Introduction To Computer Programming]]
+* [[2. How Computers Work]]
 
 
 

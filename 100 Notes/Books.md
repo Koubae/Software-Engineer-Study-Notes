@@ -1,0 +1,4 @@
+
+
+* [Computer Science: An Overview, Global Edition, 13th edition](https://www.pearson.com/en-gb/subject-catalog/p/computer-science-an-overview-global-edition/P200000003827/9781292263441)
+

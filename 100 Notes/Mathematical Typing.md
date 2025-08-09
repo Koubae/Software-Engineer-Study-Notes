@@ -11,7 +11,9 @@ date: 2025-08-09
 
 **1) first**
 $$
+\begin{equation}
 mean = \sum x
+\end{equation}
 $$
 
 

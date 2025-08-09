@@ -27,6 +27,7 @@ y = \beta x_{1} + \beta _x{2} + ... + \beta x_{n} + \beta_{0}
 $$
 
 
+
 **3) *complex using  [Mathpix -- Snipping Tool](https://mathpix.com/snipping-tool)*
 
 $$

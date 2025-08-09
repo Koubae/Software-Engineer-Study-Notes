@@ -22,11 +22,15 @@ $$
 **2) equation**
 
 
-$$
+```bash
 y = \beta x_{1} + \beta _x{2} + ... + \beta x_{n} + \beta_{0}
+```
+
 $$
-
-
+\begin{equation}
+y=\beta x_1+\beta_x 2+\ldots+\beta x_n+\beta_0
+\end{equation}
+$$
 
 **3) *complex using  [Mathpix -- Snipping Tool](https://mathpix.com/snipping-tool)*
 

@@ -13,6 +13,8 @@ date: 2025-08-09
 $$
 mean = \sum x
 $$
+
+
 **2) equation**
 
 $$
@@ -27,3 +29,8 @@ r_{x y}=\frac{\sum x_i y_i-n \bar{x} \bar{y}}{\sqrt{\left(\sum x_i^2-n \bar{x}^2
 \end{equation}
 $$
 
+
+**The Cauchy-Schwarz Inequality**
+* https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$

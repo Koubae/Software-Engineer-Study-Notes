@@ -29,7 +29,7 @@
               "state": {
                 "file": "100 Notes/Mathematical Typing.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Mathematical Typing"

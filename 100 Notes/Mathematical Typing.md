@@ -10,9 +10,7 @@ date: 2025-08-09
 
 
 **1) first**
-$$
-mean = \sum x
-$$
+$$mean = \sum x$$
 
 
 **2) equation**

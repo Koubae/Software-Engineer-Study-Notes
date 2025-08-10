@@ -7,6 +7,18 @@ tags:
 date: 2025-08-09
 ---
 * [Mathpix -- Snipping Tool](https://mathpix.com/snipping-tool)
+* [Writing mathematical expressions -- Github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+
+```text
+This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+```
+This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+
+```text
+This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
+```
+
+This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
 
 
 **1) first**

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "007c83bb6607a097",
+        "id": "b7ecd3d1248c6e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "aeba1d9b1431007f",
+            "id": "67fc775fdae62ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Courses/001 Introduction Computer Science/3. Mathematics for Computer Science.md",
+                "file": "300 Mathematics/Mathematics -- RoadMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Mathematics for Computer Science"
-            }
-          },
-          {
-            "id": "4a622c9f46518b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Notes/Mathematical Typing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mathematical Typing"
+              "title": "Mathematics -- RoadMap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,28 +168,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a622c9f46518b5d",
+  "active": "fb5f96eaea7e6d1d",
   "lastOpenFiles": [
+    "300 Mathematics/Mathematics.md",
     "200 Courses/001 Introduction Computer Science/3. Mathematics for Computer Science.md",
+    "300 Mathematics/6. Discrete Mathematics/Discrete Mathematics.md",
+    "300 Mathematics/5. Statistics/Statistics.md",
+    "300 Mathematics/4. Probability/Probability.md",
+    "300 Mathematics/2. Geometry/Geometry.md",
+    "README.md",
+    "300 Mathematics/1. Arithmetic/Arithmetic.md",
+    "300 Mathematics/6. Discrete Mathematics",
+    "300 Mathematics/5. Statistics",
+    "300 Mathematics/4. Probability",
+    "300 Mathematics/2. Geometry/Trigonometry.md",
+    "300 Mathematics/2. Geometry",
+    "Root.md",
+    "Pasted image 20250810124611.png",
+    "300 Mathematics/1. Arithmetic",
+    "300 Mathematics/3. Algebra/Algebra.md",
+    "100 Notes/Books.md",
+    "300 Mathematics/3. Algebra/4. Abstract Algebra/Abstract Algebra.md",
+    "300 Mathematics/3. Algebra/3. Linear Algebra/Linear Algebra.md",
+    "300 Mathematics/3. Algebra/1. Elementary Algebra/Elementary Algebra.md",
+    "300 Mathematics/3. Algebra/2. Intermediate Algebra/Intermediate Algebra.md",
+    "300 Mathematics/3. Algebra/5. Boolean Algebra/Boolean Algebra.md",
+    "300 Mathematics/3. Algebra/5. Boolean Algebra",
+    "300 Mathematics/3. Algebra/4. Abstract Algebra",
+    "300 Mathematics/3. Algebra/3. Linear Algebra",
+    "300 Mathematics/3. Algebra/2. Intermediate Algebra",
+    "300 Mathematics/3. Algebra/1. Elementary Algebra",
+    "300 Mathematics/Mathematics -- RoadMap.md",
     "100 Notes/Mathematical Typing.md",
     "100 Notes/Keywords.md",
-    "README.md",
     "200 Courses/001 Introduction Computer Science/2. How Computers Work.md",
-    "100 Notes/Books.md",
     "000 Index/Study Methodologies & Learning Fundamentals.md",
     "200 Courses/Courses.md",
     "200 Courses/001 Introduction Computer Science/Introduction Computer Science.md",
     "200 Courses/001 Introduction Computer Science/1. Introduction To Computer Programming.md",
-    "200 Courses/code/001_p5/src/playground.js",
-    "200 Courses/code/001_p5/src/006_assignment copy.js",
-    "200 Courses/code/sunrise/sketch.js",
-    "200 Courses/code/sunrise/p5.min.js",
-    "200 Courses/code/sunrise/index.html",
-    "200 Courses/code/sunrise",
-    "200 Courses/code/debugChallengeT2/sketch.js",
-    "200 Courses/code/debugChallengeT2/p5.min.js",
-    "200 Courses/code/debugChallengeT2/index.html",
-    "200 Courses/code/debugChallengeT2",
     "200 Courses/code/sleuth/302-3-40662007-6978930/spotlight.png",
     "200 Courses/code/sleuth/302-3-40662007-6978930/scene.png",
     "200 Courses/code/sleuth/302-2-75394770-6978930/spotlight.png",
@@ -215,8 +215,6 @@
     "200 Courses/code/sleuth/302-0-33126820-6978930/spotlight.png",
     "200 Courses/code/sleuth/302-0-33126820-6978930/scene.png",
     "200 Courses/code/sleuth/301-3-49273301-6978930/photoBoard.png",
-    "200 Courses/code/sleuth/301-3-49273301-6978930/krayBrothers2.png",
-    "200 Courses/1. Index -- Introduction Computer Science.md",
-    "2025-08-05.md"
+    "200 Courses/1. Index -- Introduction Computer Science.md"
   ]
 }

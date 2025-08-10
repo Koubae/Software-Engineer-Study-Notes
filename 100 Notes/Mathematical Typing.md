@@ -59,3 +59,78 @@ $$
 $$
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 $$
+
+
+* [Superscript and subscript](https://tex.stackexchange.com/questions/495301/superscript-and-subscript)
+
+$$
+1011_2\
+2^2
+$$
+
+
+**multiline**
+
+$$
+\begin{aligned}
+327_8 \\
+123
+\end{aligned}
+$$
+
+---
+
+**left align**
+
+$$
+\begin{array}{l}
+327_8 \\
+123
+\end{array}
+$$
+
+**left align using flalign**
+
+$$
+\begin{flalign*}
+&327_8 \\
+&123
+\end{flalign*}
+$$
+
+**multiplicatoipns**
+
+$$
+a \cdot b
+$$
+
+$$
+a \times b
+$$
+
+$$
+ab \quad or \quad a(b+c)
+$$
+
+**spacing**
+
+### 🆚 Other Spacing Options in LaTeX Math
+
+| Command  | Space Added         |
+| -------- | ------------------- |
+| `\,`     | Thin space          |
+| `\:`     | Medium space        |
+| `\;`     | Thick space         |
+| `\quad`  | 1 em (wide space)   |
+| `\qquad` | 2 em (extra wide)   |
+| `\!`     | Negative thin space |
+$$
+a = b \quad \text{and} \quad c = d
+$$
+
+$$
+a = b \qquad \text{and} \qquad c = d
+$$
+$$
+a = b \; \text{and} \; c = d
+$$

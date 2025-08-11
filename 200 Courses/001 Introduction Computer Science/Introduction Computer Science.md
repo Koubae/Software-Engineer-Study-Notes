@@ -7,6 +7,7 @@ date: 2025-08-05
 ### Resources
 
 * [Introduction to Computer Science and Programming Specialization](https://www.coursera.org/specializations/introduction-computer-science-programming)
+* [Mark D'inverno](https://en.wikipedia.org/wiki/Mark_d%27Inverno)
 
 ### Courses
 

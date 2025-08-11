@@ -134,3 +134,32 @@ $$
 $$
 a = b \; \text{and} \; c = d
 $$
+
+
+
+**multiline more**
+https://stackoverflow.com/a/77727151/13903942
+
+$$
+
+\begin{gather*}eqtn1 \\ eqtn2 \\ eqtn3 \end{gather*}
+
+$$
+
+
+$$
+\begin{aligned}
+ y &= x+2 \\
+   &= 2+x
+\end{aligned}
+$$
+
+
+$$
+\begin{equation}
+\begin{array}{r}
+1101 \\
++\quad 10111
+\end{array}
+\end{equation}
+$$

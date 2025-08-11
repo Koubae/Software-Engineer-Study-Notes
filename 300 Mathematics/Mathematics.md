@@ -22,3 +22,7 @@ date: 2025-08-09
 * [[Mathematical Typing]]
 * [[Mathematics -- RoadMap]]
 
+
+### Keywords
+
+* [Generator (mathematics)](https://en.wikipedia.org/wiki/Generator_(mathematics))

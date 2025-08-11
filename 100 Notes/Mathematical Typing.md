@@ -70,6 +70,20 @@ $$
 
 
 **multiline**
+$$
+\begin{equation}
+\begin{gathered}
+an = a1 * r(n-1) \\
+an = a1 * (r ** (n -1))\\
+a = 3\\
+r = 2\\
+a_5 = 3 · 2(5-1) = 3 · 2^4 = 3 · 16 = 48
+\end{gathered}
+\end{equation}
+$$
+
+
+
 
 $$
 \begin{aligned}

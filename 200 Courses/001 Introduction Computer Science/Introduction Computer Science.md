@@ -13,6 +13,7 @@ date: 2025-08-05
 
 * [[1. Introduction To Computer Programming]]
 * [[2. How Computers Work]]
+* [[3. Mathematics for Computer Science]]
 
 
 

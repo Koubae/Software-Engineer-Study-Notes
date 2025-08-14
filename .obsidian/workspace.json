@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",
+                "file": "300 Mathematics/1. Arithmetic/Arithmetic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Technical Support Fundamentals"
+              "title": "Arithmetic"
             }
           }
         ]
@@ -170,9 +170,12 @@
   },
   "active": "31db4513e037b750",
   "lastOpenFiles": [
+    "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",
+    "300 Mathematics/1. Arithmetic/Arithmetic.md",
+    "300 Mathematics/Mathematics -- RoadMap.md",
+    "100 Notes/Mathematical Typing.md",
     "Pasted image 20250813100538.png",
     "200 Courses/002 Google IT Support Professional Certificate/Google IT Support Professional Certificate.md",
-    "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",
     "200 Courses/002 Google IT Support Professional Certificate/Certificate-Glossary.docx.pdf",
     "200 Courses/001 Introduction Computer Science/3. Mathematics for Computer Science.md",
     "200 Courses/002 Google IT Support Professional Certificate/6. Accelerate Your Job Search with AI.md",
@@ -180,7 +183,6 @@
     "200 Courses/002 Google IT Support Professional Certificate/4. System Administration and IT Infrastructure Services.md",
     "200 Courses/002 Google IT Support Professional Certificate/3. Operating Systems and You Becoming a Power User.md",
     "200 Courses/002 Google IT Support Professional Certificate/2. The Bits and Bytes of Computer Networking.md",
-    "100 Notes/Mathematical Typing.md",
     "200 Courses/002 Google IT Support Professional Certificate/().md",
     "200 Courses/001 Introduction Computer Science/Introduction Computer Science.md",
     "200 Courses/002 Google IT Support Professional Certificate/1..md",
@@ -192,12 +194,10 @@
     "README.md",
     "Root.md",
     "300 Mathematics/Mathematics.md",
-    "300 Mathematics/Mathematics -- RoadMap.md",
     "300 Mathematics/6. Discrete Mathematics/Discrete Mathematics.md",
     "300 Mathematics/5. Statistics/Statistics.md",
     "300 Mathematics/4. Probability/Probability.md",
     "300 Mathematics/2. Geometry/Geometry.md",
-    "300 Mathematics/1. Arithmetic/Arithmetic.md",
     "300 Mathematics/6. Discrete Mathematics",
     "300 Mathematics/5. Statistics",
     "300 Mathematics/4. Probability",
@@ -214,7 +214,6 @@
     "200 Courses/001 Introduction Computer Science/code/sleuth/302-2-75394770-6978930/spotlight.png",
     "200 Courses/001 Introduction Computer Science/code/sleuth/302-2-75394770-6978930/scene.png",
     "200 Courses/001 Introduction Computer Science/code/sleuth/302-1-60617593-6978930/spotlight.png",
-    "200 Courses/001 Introduction Computer Science/code/sleuth/302-1-60617593-6978930/scene.png",
-    "200 Courses/001 Introduction Computer Science/code/sleuth/302-0-33126820-6978930/spotlight.png"
+    "200 Courses/001 Introduction Computer Science/code/sleuth/302-1-60617593-6978930/scene.png"
   ]
 }

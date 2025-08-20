@@ -177,3 +177,33 @@ $$
 \end{array}
 \end{equation}
 $$
+
+**reminder**
+
+$$
+\phantom{25\div7}= 3 \text{ R } 4
+$$
+
+$$
+7\div3=2\text{ R } 1
+$$
+
+**Square Root**
+√ symbol
+
+* [Radical Symbol -- Wiki](https://en.wikipedia.org/wiki/Radical_symbol)
+* [nth Root | higher order root](https://en.wikipedia.org/wiki/Nth_root)
+
+$$
+\sqrt[{n}]{ab+2}
+$$
+
+### Fractions
+
+$$
+\frac{numerator}{denominator}
+$$
+
+$$
+\frac{2}{8} + \frac{5}{6}
+$$

@@ -9,6 +9,12 @@
 * common ration
 * [Geometric Sequence | Geometric Progression](https://en.wikipedia.org/wiki/Geometric_progression)
 *  [Divergent Series](https://en.wikipedia.org/wiki/Divergent_series
+*  [Lowest common denominator](https://en.wikipedia.org/wiki/Lowest_common_denominator) The least common denominator (LCD), also known as the lowest common denominator
+* [Prime Factorization / Integer Factorization -- Wiki](https://en.wikipedia.org/wiki/Integer_factorization)
+* Like Denominators [What are like denominators?](https://www.splashlearn.com/math-vocabulary/fractions/like-denominators)
+* Improper fractions [Improper Fractions](https://www.mathsisfun.com/improper-fractions.html)
+* [mixed fractions](https://www.mathsisfun.com/mixed-fractions.html)
+
 
 
 

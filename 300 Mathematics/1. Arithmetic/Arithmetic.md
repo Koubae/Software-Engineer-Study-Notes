@@ -197,3 +197,22 @@ Rewrite \[3\dfrac{4}5\] as an improper fraction.
 \[\phantom{3\dfrac{4}5}=\dfrac{\blueD5+\blueD5+\blueD5+\greenD4}5\]
 
 \[{3\dfrac{4}5}=\dfrac{19}5\]
+
+## Multiply fractions
+
+![[Pasted image 20250821074447.png]]
+
+### Multiplying mixed numbers by whole numbers
+![[Pasted image 20250821075039.png]]
+
+### Multiplying fractions and whole numbers
+
+![[Pasted image 20250821092338.png]]
+
+### Multiplying 2 fractions: number line
+
+![[Pasted image 20250821094833.png]]
+
+### Multiplying mixed numbers
+
+

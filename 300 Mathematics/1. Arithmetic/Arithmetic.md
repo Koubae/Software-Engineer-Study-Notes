@@ -222,3 +222,32 @@ Rewrite \[3\dfrac{4}5\] as an improper fraction.
 
 ![[Pasted image 20250822095415.png]]
 
+## Multi Digit Multiplication / Division
+
+### Multi digit multiplication
+![[Pasted image 20250825075207.png]]
+
+### Multi digit divisions
+
+![[Pasted image 20250825091417.png]]
+
+**Long division with remainders**
+
+![[Pasted image 20250825091948.png]]
+
+
+
+To Know if a 3 is divisible by another you can
+**sum all digits** and then divide, Example
+(this is a trick that works only for 3 in theory..)
+
+```python
+N = "1735029"
+total = sum([int(i) for i in N.split()])
+print(total)
+```
+
+
+
+**Divide by 2 digits**
+

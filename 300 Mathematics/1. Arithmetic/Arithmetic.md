@@ -213,6 +213,12 @@ Rewrite \[3\dfrac{4}5\] as an improper fraction.
 
 ![[Pasted image 20250821094833.png]]
 
-### Multiplying mixed numbers
+### Visually adding fractions: 5/6+1/4
 
+
+![[Pasted image 20250822095324.png]]
+
+### Visually subtracting fractions: 3/4-5/8
+
+![[Pasted image 20250822095415.png]]
 

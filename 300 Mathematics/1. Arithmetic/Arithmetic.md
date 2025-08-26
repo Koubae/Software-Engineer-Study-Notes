@@ -251,3 +251,20 @@ print(total)
 
 **Divide by 2 digits**
 
+
+### fractions as division
+
+* Reciprocal
+	* [Reciprocal -- wiki](https://en.wikipedia.org/wiki/Reciprocal)
+	
+
+![[Pasted image 20250826093943.png]]
+
+![[Pasted image 20250826094155.png]]
+
+**divisions of fractions**
+
+![[Pasted image 20250826101202.png]]
+
+![[Pasted image 20250826101531.png]]
+

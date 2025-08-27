@@ -9,4 +9,3 @@ Notes taken with Obsidian while learning and studying various courses, academic 
 
 [Mark D'inverno](https://en.wikipedia.org/wiki/Mark_d%27Inverno)
 
-

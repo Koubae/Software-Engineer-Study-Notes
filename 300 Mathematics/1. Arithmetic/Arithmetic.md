@@ -268,3 +268,6 @@ print(total)
 
 ![[Pasted image 20250826101531.png]]
 
+**Dividing mixed numbers**
+
+![[Pasted image 20250827082757.png]]

@@ -7,6 +7,7 @@
 * [[Books]]
 * [[Keywords]]
 * [[Mathematical Typing]]
+* [[Tools]]
 
 ### Courses
 

@@ -16,7 +16,8 @@
 * [mixed fractions](https://www.mathsisfun.com/mixed-fractions.html)
 * * Reciprocal
 	* [Reciprocal -- wiki](https://en.wikipedia.org/wiki/Reciprocal)
-* 
+* Power, Base, exponent
+* Order of Operations
 
 
 

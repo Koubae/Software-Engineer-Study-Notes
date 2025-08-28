@@ -6,6 +6,7 @@ date: 2025-08-13
 ---
 * https://www.khanacademy.org/math/arithmetic
 
+* Power, Base, exponent
 ### Multiplications 2 digits
 
 *![[Pasted image 20250820071652.png]]*
@@ -271,3 +272,11 @@ print(total)
 **Dividing mixed numbers**
 
 ![[Pasted image 20250827082757.png]]
+
+
+**Division strategies for decimal quotients**
+
+![[Pasted image 20250828072857.png]]
+
+**Dividing whole numbers by decimals examples**
+

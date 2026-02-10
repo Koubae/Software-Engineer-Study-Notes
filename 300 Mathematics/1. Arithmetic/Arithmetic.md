@@ -9,7 +9,7 @@ date: 2025-08-13
 * Power, Base, exponent
 ### Multiplications 2 digits
 
-*![[Pasted image 20250820071652.png]]*
+*![[formula-2.png]]*
 
 ### Fractions
 
@@ -71,7 +71,7 @@ $$
 \sqrt[{7}]{833}
 $$
 
-![[Pasted image 20250819212427.png]]
+![[formula-1.png]]
 
 **Division with partial quotients (remainder)
 
@@ -81,7 +81,7 @@ $$
 
 multiply/divide nominator and denominator by same value 
 
-![[Pasted image 20250820085518.png]]
+![[formula-3.png]]
 ### least common denominator
 
 
@@ -105,7 +105,7 @@ Least Common **Denominator** = `LCD(8,6)`
 LCD = 24
 ```
 
-![[Pasted image 20250820092018.png]]
+![[multi-4.png]]
 
 #### Prime Factorization
 
@@ -115,43 +115,43 @@ LCD = 24
 Use prime numbers to find non-prime numbers multiplication result
 Prime Factorization finds *sets of prime factors* 
 
-![[Pasted image 20250820091614.png]]
+![[multi-1.png]]
 
-![[Pasted image 20250820091706.png]]
+![[multi-2.png]]
 
 
 ###  Like Denominators 
 
  Like Denominators [What are like denominators?](https://www.splashlearn.com/math-vocabulary/fractions/like-denominators)
-![[Pasted image 20250820094943.png]]
+![[addition.png]]
 
 #### Subtracting fractions with like denominators
-![[Pasted image 20250820095141.png]]
+![[subtraction.png]]
 
 #### Improper fractions
 
 * Improper fractions [Improper Fractions](https://www.mathsisfun.com/improper-fractions.html)
-![[Pasted image 20250820100537.png]]
+![[fraction-2.png]]
 #### improper fractions as mixed numbers
 
 * [mixed fractions](https://www.mathsisfun.com/mixed-fractions.html)
 
-![[Pasted image 20250820100429.png]]
+![[fraction-1.png]]
 ### Adding mixed numbers with like denominators
 
-![[Pasted image 20250820101352.png]]
+![[fraction-3.png]]
 
 #### Subtracting mixed numbers with like denominators
 
-![[Pasted image 20250820101503.png]]
+![[fraction-4.png]]
 
 #### Mixed number addition with regrouping
 
-![[Pasted image 20250820101954.png]]
+![[fraction-5.png]]
 
 #### Subtracting mixed numbers with regrouping
 
-![[Pasted image 20250820102152.png]]
+![[fraction-6.png]]
 
 ## What is an improper fraction?
 
@@ -201,40 +201,40 @@ Rewrite \[3\dfrac{4}5\] as an improper fraction.
 
 ## Multiply fractions
 
-![[Pasted image 20250821074447.png]]
+![[fraction-7.png]]
 
 ### Multiplying mixed numbers by whole numbers
-![[Pasted image 20250821075039.png]]
+![[fraction-8.png]]
 
 ### Multiplying fractions and whole numbers
 
-![[Pasted image 20250821092338.png]]
+![[fraction-9.png]]
 
 ### Multiplying 2 fractions: number line
 
-![[Pasted image 20250821094833.png]]
+![[fraction-10.png]]
 
 ### Visually adding fractions: 5/6+1/4
 
 
-![[Pasted image 20250822095324.png]]
+![[fraction-11.png]]
 
 ### Visually subtracting fractions: 3/4-5/8
 
-![[Pasted image 20250822095415.png]]
+![[fraction-12.png]]
 
 ## Multi Digit Multiplication / Division
 
 ### Multi digit multiplication
-![[Pasted image 20250825075207.png]]
+![[multi-5.png]]
 
 ### Multi digit divisions
 
-![[Pasted image 20250825091417.png]]
+![[fraction-13.png]]
 
 **Long division with remainders**
 
-![[Pasted image 20250825091948.png]]
+![[fraction-14.png]]
 
 
 
@@ -259,24 +259,24 @@ print(total)
 	* [Reciprocal -- wiki](https://en.wikipedia.org/wiki/Reciprocal)
 	
 
-![[Pasted image 20250826093943.png]]
+![[fraction-15.png]]
 
-![[Pasted image 20250826094155.png]]
+![[fraction-16.png]]
 
 **divisions of fractions**
 
-![[Pasted image 20250826101202.png]]
+![[fraction-17.png]]
 
-![[Pasted image 20250826101531.png]]
+![[fraction-18.png]]
 
 **Dividing mixed numbers**
 
-![[Pasted image 20250827082757.png]]
+![[fraction-19.png]]
 
 
 **Division strategies for decimal quotients**
 
-![[Pasted image 20250828072857.png]]
+![[fraction-20.png]]
 
 **Dividing whole numbers by decimals examples**
 

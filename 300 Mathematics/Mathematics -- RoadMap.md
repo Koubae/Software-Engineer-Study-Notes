@@ -9,7 +9,7 @@ date: 2025-08-09
 
 ### Chat GTP Conversation
 
-![[Pasted image 20250810124611.png]]
+![[pre-uni-math-topics.png]]
 
 ### ✅ Pre-University Mathematics Topics (3-Week Learning Plan)
 

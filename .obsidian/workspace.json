@@ -13,26 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Mathematics/1. Arithmetic/Arithmetic.md",
+                "file": "300 Mathematics/Mathematics -- RoadMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arithmetic"
+              "title": "Mathematics -- RoadMap"
             }
           },
           {
             "id": "ba2d5e15db0215a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "100 Notes/Mathematical Typing.md",
-                "mode": "source",
-                "source": false
+                "file": "img/pre-uni-math-topics.png"
               },
-              "icon": "lucide-file",
-              "title": "Mathematical Typing"
+              "icon": "lucide-image",
+              "title": "pre-uni-math-topics"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f1a4f56dade4964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b900bbfbc7be6fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/fraction-20.png"
+              },
+              "icon": "lucide-image",
+              "title": "fraction-20"
             }
           }
         ]
@@ -67,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mathematics",
+                "query": "Pasted image 20250813100538",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,29 +199,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31db4513e037b750",
+  "active": "fb5f96eaea7e6d1d",
   "lastOpenFiles": [
-    "100 Notes/Mathematical Typing.md",
-    "100 Notes/Keywords.md",
-    "300 Mathematics/1. Arithmetic/Arithmetic.md",
+    "img/fraction-19.png",
+    "img/fraction-18.png",
+    "img/fraction-17.png",
+    "img/fraction-16.png",
+    "img/fraction-15.png",
+    "img/fraction-14.png",
+    "img/fraction-13.png",
+    "img/multi-5.png",
+    "img/fraction-12.png",
+    "img/fraction-11.png",
+    "img/fraction-10.png",
+    "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",
+    "200 Courses/002 Google IT Support Professional Certificate/Untitled.base",
+    "200 Courses/001 Introduction Computer Science/3. Mathematics for Computer Science.md",
     "300 Mathematics/Mathematics -- RoadMap.md",
-    "Pasted image 20250828072857.png",
-    "Pasted image 20250827082757.png",
+    "100 Notes/Mathematical Typing.md",
+    "300 Mathematics/1. Arithmetic/Arithmetic.md",
+    "100 Notes/Keywords.md",
     "100 Notes/Tools.md",
     "Root.md",
     "README.md",
-    "Pasted image 20250826101531.png",
-    "Pasted image 20250826101202.png",
-    "Pasted image 20250826094155.png",
-    "Pasted image 20250826093943.png",
-    "Pasted image 20250825091948.png",
-    "Pasted image 20250825091417.png",
-    "Pasted image 20250825075207.png",
     "200 Courses/002 Google IT Support Professional Certificate/4. System Administration and IT Infrastructure Services.md",
-    "Pasted image 20250822095415.png",
-    "200 Courses/001 Introduction Computer Science/3. Mathematics for Computer Science.md",
     "100 Notes/Books.md",
-    "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",
     "200 Courses/002 Google IT Support Professional Certificate/Google IT Support Professional Certificate.md",
     "200 Courses/002 Google IT Support Professional Certificate/Certificate-Glossary.docx.pdf",
     "200 Courses/002 Google IT Support Professional Certificate/6. Accelerate Your Job Search with AI.md",
@@ -228,7 +246,6 @@
     "300 Mathematics/2. Geometry",
     "300 Mathematics/1. Arithmetic",
     "300 Mathematics/3. Algebra/5. Boolean Algebra",
-    "300 Mathematics/3. Algebra/4. Abstract Algebra",
-    "300 Mathematics/3. Algebra/3. Linear Algebra"
+    "300 Mathematics/3. Algebra/4. Abstract Algebra"
   ]
 }

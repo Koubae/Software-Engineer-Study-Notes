@@ -4,51 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4dfc34a84f8f41ab",
+        "id": "629b97974c1efda3",
         "type": "tabs",
         "children": [
           {
-            "id": "31db4513e037b750",
+            "id": "3b0d892ebee9c6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Mathematics/Mathematics -- RoadMap.md",
+                "file": "300 Mathematics/1. Arithmetic/Arithmetic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematics -- RoadMap"
-            }
-          },
-          {
-            "id": "ba2d5e15db0215a3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/pre-uni-math-topics.png"
-              },
-              "icon": "lucide-image",
-              "title": "pre-uni-math-topics"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6f1a4f56dade4964",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b900bbfbc7be6fc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/fraction-20.png"
-              },
-              "icon": "lucide-image",
-              "title": "fraction-20"
+              "title": "Arithmetic"
             }
           }
         ]
@@ -201,23 +171,29 @@
   },
   "active": "fb5f96eaea7e6d1d",
   "lastOpenFiles": [
-    "img/fraction-19.png",
-    "img/fraction-18.png",
-    "img/fraction-17.png",
-    "img/fraction-16.png",
-    "img/fraction-15.png",
-    "img/fraction-14.png",
-    "img/fraction-13.png",
-    "img/multi-5.png",
-    "img/fraction-12.png",
-    "img/fraction-11.png",
-    "img/fraction-10.png",
+    "300 Mathematics/Mathematics.md",
+    "300 Mathematics/2. Geometry/Trigonometry.md",
+    "300 Mathematics/2. Geometry/Geometry.md",
+    "300 Mathematics/1. Arithmetic/Arithmetic.md",
+    "300 Mathematics/Mathematics -- RoadMap.md",
+    "300 Mathematics/3. Algebra/1. Elementary Algebra/Elementary Algebra.md",
     "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",
+    "200 Courses/001 Introduction Computer Science/2. How Computers Work.md",
+    "200 Courses/001 Introduction Computer Science/1. Introduction To Computer Programming.md",
+    "img/maths-academics-simple-2025/addition.png",
+    "img/maths-academics-simple-2025/fraction-20.png",
+    "img/maths-academics-simple-2025",
+    "img/maths-academics-simple-2025/fraction-19.png",
+    "img/maths-academics-simple-2025/fraction-18.png",
+    "img/maths-academics-simple-2025/fraction-17.png",
+    "img/maths-academics-simple-2025/fraction-16.png",
+    "img/maths-academics-simple-2025/fraction-15.png",
+    "img/maths-academics-simple-2025/fraction-14.png",
+    "img/maths-academics-simple-2025/fraction-13.png",
+    "img/maths-academics-simple-2025/multi-5.png",
     "200 Courses/002 Google IT Support Professional Certificate/Untitled.base",
     "200 Courses/001 Introduction Computer Science/3. Mathematics for Computer Science.md",
-    "300 Mathematics/Mathematics -- RoadMap.md",
     "100 Notes/Mathematical Typing.md",
-    "300 Mathematics/1. Arithmetic/Arithmetic.md",
     "100 Notes/Keywords.md",
     "100 Notes/Tools.md",
     "Root.md",
@@ -235,17 +211,11 @@
     "200 Courses/002 Google IT Support Professional Certificate/1..md",
     "200 Courses/Courses.md",
     "200 Courses/002 Google IT Support Professional Certificate",
-    "300 Mathematics/Mathematics.md",
-    "300 Mathematics/6. Discrete Mathematics/Discrete Mathematics.md",
-    "300 Mathematics/5. Statistics/Statistics.md",
-    "300 Mathematics/4. Probability/Probability.md",
-    "300 Mathematics/2. Geometry/Geometry.md",
     "300 Mathematics/6. Discrete Mathematics",
     "300 Mathematics/5. Statistics",
     "300 Mathematics/4. Probability",
     "300 Mathematics/2. Geometry",
     "300 Mathematics/1. Arithmetic",
-    "300 Mathematics/3. Algebra/5. Boolean Algebra",
-    "300 Mathematics/3. Algebra/4. Abstract Algebra"
+    "300 Mathematics/3. Algebra/5. Boolean Algebra"
   ]
 }

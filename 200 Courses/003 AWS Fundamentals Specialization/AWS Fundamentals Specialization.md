@@ -61,4 +61,6 @@ date: 2026-02-10
 * Regions
 
 
+### Terms
 
+* ARN -- Amazon Resource Name [Identify AWS resources with Amazon Resource Names (ARNs)](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference-arns.html)

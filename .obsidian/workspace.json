@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Courses/003 AWS Fundamentals Specialization/1. AWS Cloud Technical Essentials.md",
+                "file": "200 Courses/003 AWS Fundamentals Specialization/AWS Fundamentals Specialization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. AWS Cloud Technical Essentials"
+              "title": "AWS Fundamentals Specialization"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "3b0d892ebee9c6fe",
   "lastOpenFiles": [
-    "200 Courses/003 AWS Fundamentals Specialization/commands.md",
     "200 Courses/003 AWS Fundamentals Specialization/1. AWS Cloud Technical Essentials.md",
+    "200 Courses/003 AWS Fundamentals Specialization/commands.md",
     "200 Courses/003 AWS Fundamentals Specialization/AWS Fundamentals Specialization.md",
     "200 Courses/003 AWS Fundamentals Specialization/AWS Cloud Technical Essentials.md",
     "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",

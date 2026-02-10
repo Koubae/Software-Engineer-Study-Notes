@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Courses/002 Google IT Support Professional Certificate/Google IT Support Professional Certificate.md",
+                "file": "200 Courses/003 AWS Fundamentals Specialization/1. AWS Cloud Technical Essentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google IT Support Professional Certificate"
-            }
-          },
-          {
-            "id": "237d6314f2c1ba1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Courses/003 AWS Fundamentals Specialization/AWS Fundamentals Specialization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Fundamentals Specialization"
+              "title": "1. AWS Cloud Technical Essentials"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,11 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237d6314f2c1ba1e",
+  "active": "3b0d892ebee9c6fe",
   "lastOpenFiles": [
-    "200 Courses/Courses.md",
+    "200 Courses/003 AWS Fundamentals Specialization/commands.md",
+    "200 Courses/003 AWS Fundamentals Specialization/1. AWS Cloud Technical Essentials.md",
     "200 Courses/003 AWS Fundamentals Specialization/AWS Fundamentals Specialization.md",
+    "200 Courses/003 AWS Fundamentals Specialization/AWS Cloud Technical Essentials.md",
+    "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",
     "200 Courses/002 Google IT Support Professional Certificate/Google IT Support Professional Certificate.md",
+    "200 Courses/Courses.md",
     "200 Courses/002 Google IT Support Professional Certificate/Untitled.base",
     "200 Courses/003 AWS Fundamentals Specialization",
     "300 Mathematics/1. Arithmetic/Arithmetic.md",
@@ -197,7 +186,6 @@
     "300 Mathematics/2. Geometry/Geometry.md",
     "300 Mathematics/Mathematics -- RoadMap.md",
     "300 Mathematics/3. Algebra/1. Elementary Algebra/Elementary Algebra.md",
-    "200 Courses/002 Google IT Support Professional Certificate/1. Technical Support Fundamentals.md",
     "200 Courses/001 Introduction Computer Science/2. How Computers Work.md",
     "200 Courses/001 Introduction Computer Science/1. Introduction To Computer Programming.md",
     "img/maths-academics-simple-2025/addition.png",
@@ -223,9 +211,6 @@
     "200 Courses/002 Google IT Support Professional Certificate/6. Accelerate Your Job Search with AI.md",
     "200 Courses/002 Google IT Support Professional Certificate/5. IT Security Defense against the digital dark arts.md",
     "200 Courses/002 Google IT Support Professional Certificate/3. Operating Systems and You Becoming a Power User.md",
-    "200 Courses/002 Google IT Support Professional Certificate/2. The Bits and Bytes of Computer Networking.md",
-    "200 Courses/002 Google IT Support Professional Certificate/().md",
-    "200 Courses/001 Introduction Computer Science/Introduction Computer Science.md",
     "200 Courses/002 Google IT Support Professional Certificate",
     "300 Mathematics/6. Discrete Mathematics",
     "300 Mathematics/5. Statistics",
